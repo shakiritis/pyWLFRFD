@@ -2,7 +2,7 @@
 Water Level prediction from RainFall Data
 
     Version: 0.0.3    
-    Author : Md. Nazmuddoha Ansary    
+    Author : Md. Nazmuddoha Ansary, Shakir Hossain    
                   
 ![](/info/src_img/python.ico?raw=true )
 ![](/info/src_img/keras.ico?raw=true)
